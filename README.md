@@ -24,6 +24,7 @@ O objetivo é entender quais características dos agentes contratados estão mai
 - **Scikit-learn**: Biblioteca para avaliação de modelos.
 - **Matplotlib e Seaborn**: Visualização de dados.
 - **Statsmodels**: Análise estatística.
+- **Shap**: Visualização features do modelo. 
 
 ## Resultados
 
